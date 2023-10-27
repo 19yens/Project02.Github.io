@@ -1,11 +1,10 @@
 body {
 	line-height: 1.0;
 	background-image: url('https://talkstar-photos.s3.amazonaws.com/uploads/46964e3c-1231-42b7-9288-671ff9fdde2e/JulianTreasure_2013U-embed.jpg');
-	background-repeat: no-repeat;
-	background-attachment: fixed;
-	background-size: 100% 100%;
-	display: block;
-	margin-top: -80px;
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: 100% 100%;
+color: #FFFFFF;
 }
 
 html {
